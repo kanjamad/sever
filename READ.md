@@ -14,3 +14,7 @@ I install
 	Express framework - so that I can build a server really nice.
 	Nodemon - so I can run Nodemon in my scripts and make sure my server is running.
 	body-parser - which I use to parse and have access to the [req.body] to read JSON and form data.
+
+## package.json
+                "start": "nodemon server.js"
+And now every time 'nmp start' my server will run
