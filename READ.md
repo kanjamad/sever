@@ -19,3 +19,13 @@ I install
                 "start": "nodemon server.js"
 And now every time 'nmp start' my server will run
 
+## Planning 
+
+I do before start coding and I want to make sure that I have an idea of what my API design will look like, what I want to create.
+
+                            --> res = this is working
+                            signin --> POST = success/fail
+                            register --> POST = user
+                            profile/:userId --> GET = user
+                            image --> PUT --> user
+
