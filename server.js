@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 })
 
 app.post('/signin', (req, res) => {
-    res.send('signing')
+    res.json('signing')
 })
 
 app.listen(3000, () => {

@@ -29,3 +29,5 @@ I do before start coding and I want to make sure that I have an idea of what my 
                             profile/:userId --> GET = user
                             image --> PUT --> user
 
+## Express 
+come with a built in JSON method on response that I can use 
