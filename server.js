@@ -85,11 +85,8 @@ app.listen(3000, () => {
 })
 
 
-
 /*
-/ --> res = this is working
-/signin --> POST = success/fail
-/register --> POST = user
-/profile/:userId --> GET = user
-/image --> PUT --> user
+Amazing I got myself a nice API server.
+But I wanted to have something working that 
+I can use so that I can connect it immediately with my front-end. 
 */
