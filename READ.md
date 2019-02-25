@@ -34,3 +34,4 @@ come with a built in JSON method on response that I can use
 
 ## Storing User Passwords
 Security is a very important thing on the web.
+Here I wanted to show the recommendations for storing user passwords and improving security Learn more  [Andrei Neagoie](https://www.udemy.com/share/100HQLBEYdcF5URX4=/)
