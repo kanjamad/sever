@@ -34,6 +34,7 @@ come with a built in JSON method on response that I can use
 
 ## Storing User Passwords
 Security is a very important thing on the web.
+And as developers I have a responsibility to make sure that whatever user information I get I handle it with care in a secure fashion.
 Here I wanted to show the recommendations for storing user passwords and improving security Learn more  [Andrei Neagoie](https://www.udemy.com/share/100HQLBEYdcF5URX4=/)
 Step 1:
 It all begins when you ask your user to create an account by setting a username and password. This is where user experience will need to play nicely with proper security measures. United States National Institute for Standards and Technology (NIST) is currently finalizing their recommendations for password management. Some of these include:
@@ -47,3 +48,10 @@ It all begins when you ask your user to create an account by setting a username 
 4. Avoid security questions. Although this is good for an extra layer of security, the information can be easily discovered by an attacker in this day and age. It’s just an extra implementation step; a step that a user has to take while offering very little added security. Yahoo had this information stolen-- which was saved in plain text, allowing the attacker to easily see this information about each user.
 
 5. Use 2FA (2 factor authentication) if you want an extra layer of security in your application, but avoid using SMS as this can be easily hacked to have the attackers phone receive the confirmation code.
+
+### Link
+https://www.npmjs.com/package/bcrypt-nodejs
+
+* bcrypt-nodejs
+                        npm install bcrypt-nodejs
+
