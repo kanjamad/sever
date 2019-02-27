@@ -55,3 +55,7 @@ https://www.npmjs.com/package/bcrypt-nodejs
 * bcrypt-nodejs
                         npm install bcrypt-nodejs
 
+## CORS
+CORS is an important concept in web security.
+### Link
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
