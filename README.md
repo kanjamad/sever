@@ -58,4 +58,5 @@ https://www.npmjs.com/package/bcrypt-nodejs
 ## CORS
 CORS is an important concept in web security.
 ### Link
+https://www.npmjs.com/package/cors
 https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
