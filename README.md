@@ -60,3 +60,6 @@ CORS is an important concept in web security.
 ### Link
 https://www.npmjs.com/package/cors
 https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+
+## Connecting to the Database
+https://knexjs.org/#Installation-node
